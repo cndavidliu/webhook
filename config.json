@@ -1,0 +1,10 @@
+{
+	"master": [
+		"pwd",
+		"ls -l"
+	],
+	"dif-branch": [
+		"echo $JAVA_HOME",
+		"ps -aux | ssh"
+	]
+}
