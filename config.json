@@ -1,7 +1,9 @@
 {
 	"master": [
 		"pwd",
-		"ls -l"
+		"ls -l",
+		"netstat -aux",
+		"echo $PATH"
 	],
 	"dif-branch": [
 		"echo $JAVA_HOME",
