@@ -2,8 +2,7 @@
 	"master": [
 		"pwd",
 		"ls -l;ls",
-		"netstat -aux",
-		"echo $PATH"
+		"ssh root@192.168.1.7 'ls -l;pwd'"
 	],
 	"dif-branch": [
 		"echo $JAVA_HOME",
