@@ -1,6 +1,6 @@
 {
 	"master": [
-		"pwd",
+		"ls -l;sleep 90",
 		"ls -l;ls",
 		"ssh root@192.168.1.7 'ls -l;pwd'"
 	],
